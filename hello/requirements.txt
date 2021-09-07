@@ -7,7 +7,7 @@ asgiref==3.2.3
 asn1crypto==0.24.0
 attrs==19.3.0
 Authlib==0.11
-Babel==2.8.0
+Babel==2.9.1
 backcall==0.1.0
 bleach==3.1.0
 blinker==1.4
@@ -57,7 +57,7 @@ isodate==0.6.0
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi==0.16.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 joblib==0.13.2
 json5==0.9.0
 jsonschema==3.2.0
