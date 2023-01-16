@@ -42,7 +42,7 @@ Flask-Login==0.4.1
 Flask-SAML==0.4.3
 flask-saml2==0.2.0
 flowcraft==1.4.1
-future==0.18.2
+future==0.18.3
 futures==3.1.1
 html5lib==1.0.1
 idna==2.8
