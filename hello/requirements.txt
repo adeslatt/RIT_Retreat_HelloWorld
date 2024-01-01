@@ -113,7 +113,7 @@ pkginfo==1.5.0.1
 pluggy==0.12.0
 poetry==0.12.17
 prometheus-client==0.7.1
-prompt-toolkit==3.0.3
+prompt-toolkit==3.0.13
 psycopg2==2.8.4
 ptyprocess==0.6.0
 py==1.8.1
